@@ -30,7 +30,7 @@ bang_dict={}
 for bang in get_bang_dict():
     bang_dict[bang['t']] = bang['u']
 
-with open("patch.yaml", "w") as f:
+with open("patch.yaml", "r") as f:
     patch = yaml.safe_load(f)
 
 for bang in patch:
