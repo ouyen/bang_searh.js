@@ -1,0 +1,3 @@
+bili: "http://www.bilibili.com/search?keyword={{{s}}}"
+byr: https://byr.pt/torrents.php?search={{{s}}}
+agefans: https://www.agemys.net/search?query={{{s}}}
