@@ -39,6 +39,9 @@ for bang in patch:
 with open("bang_full.yaml", "w") as f:
     yaml.safe_dump(bang_dict, f)
 
-with open("bang_full.json", "w") as f:
+with open("bang_full.js", "w") as f:
+    f.write("const lookup = ")
+
+with open("bang_full.js", "a") as f:
     json.dump(bang_dict, f)
 
