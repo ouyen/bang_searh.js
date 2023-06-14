@@ -13253,6 +13253,7 @@ xfce-look: 'https://www.xfce-look.org/search?projectSearchText={{{s}}} '
 xfe: https://exchange.xforce.ibmcloud.com/search/{{{s}}}
 xgau: http://www.robertchristgau.com/get_artist.php?name={{{s}}}
 xgn: https://www.xgn.nl/zoeken/{{{s}}}
+xhs: https://www.xiaohongshu.com/search_result/?keyword={{{s}}}
 xiami: http://www.xiami.com/search?key={{{s}}}
 xing: 'https://www.xing.com/app/search?op=combined;keywords={{{s}}} '
 xinhua: http://so.news.cn/#search/0/{{{s}}}/1/
