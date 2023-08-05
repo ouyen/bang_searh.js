@@ -7362,7 +7362,7 @@ mbug: https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}}
 mbw: http://musicbrainz.org/search?query={{{s}}}&type=work&method=indexed
 mbwiki: https://wiki.musicbrainz.org/index.php?title=Special%3ASearch&go=Go&search={{{s}}}
 mbwork: https://musicbrainz.org/search?query={{{s}}}&type=work
-mc: http://www.metacritic.com/search/all/{{{s}}}/results
+mc: https://minecraft.fandom.com/zh/wiki/Special:%E6%90%9C%E7%B4%A2?query={{{s}}}&scope=internal&navigationSearch=true
 mc-pl: https://minecraft-pl.gamepedia.com/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejd%C5%BA
 mc.info: http://magiccards.info/query?q={{{s}}}&v=card&s=cname
 mcat: https://www.monstercat.com/search?term={{{s}}}

@@ -2,3 +2,4 @@ bili: "http://www.bilibili.com/search?keyword={{{s}}}"
 byr: https://byr.pt/torrents.php?search={{{s}}}
 agefans: https://www.agemys.net/search?query={{{s}}}
 xhs: https://www.xiaohongshu.com/search_result/?keyword={{{s}}}
+mc: https://minecraft.fandom.com/zh/wiki/Special:%E6%90%9C%E7%B4%A2?query={{{s}}}&scope=internal&navigationSearch=true
