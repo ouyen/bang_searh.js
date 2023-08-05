@@ -9501,7 +9501,7 @@ pxc: http://www.phoenixcontact.com/online/portal/us?q={{{s}}}&uri=pxc-search%3Aw
 pxhere: https://pxhere.com/en/photos?q={{{s}}}
 pxv: https://pixabay.com/en/photos/?q={{{s}}}&image_type=vector&cat=&min_width=&min_height=
 pxvg: https://pixabay.com/en/photos/?image_type=vector&cat=&min_width=&min_height=&q={{{s}}}&order=latest
-py: https://docs.python.org/3/search.html?q={{{s}}}
+py: https://docs.python.org/zh-cn/3/search.html?q={{{s}}}
 py2: https://docs.python.org/2.7/search.html?q={{{s}}}
 py27: https://docs.python.org/2.7/search.html?q={{{s}}}
 py3: https://docs.python.org/3/search.html?q={{{s}}}
