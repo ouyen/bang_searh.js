@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         bang search for google & bing
-// @version      1.0
+// @version      1.0240226
 // @description  "bring the duckduckgo bang search to google and bing"
 // @include      *://*.google.com/*
 // @include      *://*.google.com.*/*
