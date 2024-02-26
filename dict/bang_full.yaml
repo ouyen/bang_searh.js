@@ -7362,7 +7362,7 @@ mbug: https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}}
 mbw: http://musicbrainz.org/search?query={{{s}}}&type=work&method=indexed
 mbwiki: https://wiki.musicbrainz.org/index.php?title=Special%3ASearch&go=Go&search={{{s}}}
 mbwork: https://musicbrainz.org/search?query={{{s}}}&type=work
-mc: https://minecraft.fandom.com/zh/wiki/Special:%E6%90%9C%E7%B4%A2?query={{{s}}}&scope=internal&navigationSearch=true
+mc: https://searchwiki.biligame.com/mc/index.php?search={{{s}}}
 mc-pl: https://minecraft-pl.gamepedia.com/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejd%C5%BA
 mc.info: http://magiccards.info/query?q={{{s}}}&v=card&s=cname
 mcat: https://www.monstercat.com/search?term={{{s}}}
@@ -8804,7 +8804,7 @@ ozsmoke.com.au: https://ozsmoke.com.au/search/?q={{{s}}}
 ozstoners: https://cannabis.community.forums.ozstoners.com/index.php?app=core&module=search&do=search&andor_type=and&sid=58ffdab89aaeb17e49a50f52929f35d6&search_content=both&search_app_filters[ccs][searchInKey]=pages&search_app_filters[ccs][pages][sortKey]=date&search_app_filters[ccs][pages][sortDir]=0&search_app_filters[ccs][database_1][sortKey]=date_added&search_app_filters[ccs][database_1][sortDir]=0&search_term={{{s}}}&search_app=forums
 p: https://www.pinterest.com/search/pins/?q={{{s}}}
 p4k: http://pitchfork.com/search/?query={{{s}}}
-p5: https://p5js.org/reference/#/p5/{{{s}}}
+p5: https://searchwiki.biligame.com/persona/index.php?search={{{s}}}&title=%E7%89%B9%E6%AE%8A%3A%E6%90%9C%E7%B4%A2&profile=default&fulltext=1
 p6mod: https://modules.perl6.org/search/?q={{{s}}}
 pa: https://www.paginasamarillas.es/search/all-ac/all-ma/all-pr/all-is/all-ci/all-ba/all-pu/all-nc/1?what={{{s}}}
 pabn: https://www.prothomalo.com/search/?q={{{s}}}
